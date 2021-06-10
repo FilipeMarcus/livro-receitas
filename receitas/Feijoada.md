@@ -1,9 +1,9 @@
 # Feijoada
 
 ## Ingredientes
-- [ ] Feijão Preto
+- [X] Feijão Preto
 - [ ] Pé de Porco
-- [ ] Bacon
+- [X] Bacon
 - [ ] Toucinho
 - [x] Orelha de Porco
 
